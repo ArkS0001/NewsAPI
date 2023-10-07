@@ -1,4 +1,4 @@
-# news_udemy
+# newsAPI
 
 A new Flutter project.
 
